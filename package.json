@@ -1,0 +1,30 @@
+{
+  "name": "chair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fish1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chair-project/CHAIR2019.git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chair-project/CHAIR2019.git/issues"
+  },
+  "homepage": "https://github.com/chair-project/CHAIR2019.git#readme",
+  "devDependencies": {
+    "express": "^4.17.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "minimist": "^1.2.0",
+    "opn": "^6.0.0",
+    "path": "^0.12.7"
+  }
+}
